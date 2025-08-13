@@ -1,11 +1,13 @@
 # MikhiZuperDupper.github.io
 Curz informationen / informativ whitepaper about me, MikhiZuperDupper, (^ω~)
+
 ----
 Contact email: mikhisap@mail.ru
 
 ORCID: https://orcid.org/0009-0009-6334-6328
 
 🌈
+
 ----
 
 ## Skills-sheet
@@ -35,5 +37,6 @@ ORCID: https://orcid.org/0009-0009-6334-6328
 | Blender             | ORCID                  |                        |                                                                            |
 | Etherium            | MS Outlook             |                        |                                                                            |
 | VPN                 | Draw.io                |                        |                                                                            |
-|                     |                        |                        |                                                                            |
+|                     | Project-Managment      |                        |                                                                            |
+|                     | PERT                   |                        |                                                                            |
 |                     |                        |                        |                                                                            |
