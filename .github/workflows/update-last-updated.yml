@@ -17,7 +17,7 @@ jobs:
     
     - name: Get last commit date
       id: get_date
-      run: echo "LAST_UPDATED=$(git log -1 --format=%cd --date=short)" >> $GITHUB_ENV
+      run: echo "LAST_UPDATED=$(git log -1 --format=%cd --date=format:'%Y-%m-%d %H:%M:%S')" >> $GITHUB_ENV
 
     - name: Update README.md last update date
       run: |
