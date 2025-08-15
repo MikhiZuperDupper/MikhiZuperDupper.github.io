@@ -46,4 +46,4 @@ ORCID: https://orcid.org/0009-0009-6334-6328
 |                     |                        |                        |                                                                            |
 
 
-<!--LAST_UPDATE-->
+Последнее обновление: <!--LAST_UPDATE-->
