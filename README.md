@@ -1,5 +1,5 @@
 # MikhiZuperDupper.github.io
-Curz informationen / informativ whitepaper about me, MikhiZuperDupper, (^ω~)
+Curz informationen / informativ whitepaper about me, 𝔐𝔦𝔨𝔥𝔦ℨ𝔲𝔭𝔢𝔯𝔇𝔲𝔭𝔭𝔢𝔯, (^ω~)
 
 ----
 Contact email: mikhisap@mail.ru
@@ -37,6 +37,13 @@ ORCID: https://orcid.org/0009-0009-6334-6328
 | Blender             | ORCID                  |                        |                                                                            |
 | Etherium            | MS Outlook             |                        |                                                                            |
 | VPN                 | Draw.io                |                        |                                                                            |
-|                     | Project-Managment      |                        |                                                                            |
-|                     | PERT                   |                        |                                                                            |
+| GitHub Actions      | Project-Managment      |                        |                                                                            |
+| Word2Vec            | PERT                   |                        |                                                                            |
+| Kubernetes          |                        |                        |                                                                            |
+| OOP                 |                        |                        |                                                                            |
+| ECS                 |                        |                        |                                                                            |
+| Apache JMeter       |                        |                        |                                                                            |
 |                     |                        |                        |                                                                            |
+
+
+<!--LAST_UPDATE-->
