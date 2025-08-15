@@ -3,7 +3,7 @@ name: Update Last Updated
 on:
   push:
     branches:
-      - main  # замените на вашу основную ветку, если она отличается
+      - main  # Замените на вашу основную ветку, если она отличается
 
 jobs:
   update-readme:
@@ -24,3 +24,5 @@ jobs:
         git add README.md
         git commit -m "Update last updated date in README"
         git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
