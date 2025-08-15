@@ -1,0 +1,26 @@
+name: Update Last Updated
+
+on:
+  push:
+    branches:
+      - main  # замените на вашу основную ветку, если она отличается
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+    
+    - name: Get last commit date
+      id: get_date
+      run: echo "LAST_UPDATED=$(git log -1 --format=%cd --date=short)" >> $GITHUB_ENV
+
+    - name: Update README.md last update date
+      run: |
+        sed -i "s/<!--LAST_UPDATE-->/Последнее обновление: $LAST_UPDATED/" README.md
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add README.md
+        git commit -m "Update last updated date in README"
+        git push
